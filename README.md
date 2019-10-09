@@ -1,15 +1,18 @@
-# vtop
+# phytop
 
-A real-time, visual, physics-simulation-esque representation of the processes currently running on your computer.
+A visual, real-time physics-simulation with parameters controlled by all the processes running on your computer.
 
-Written by Ryan Jensen
-2019-10-08
+(c) 2019 Ryan Jensen
 
 ## Getting Started
 
 To run the program on your computer, clone the git repository to your local machine by running the command:
 
-`git clone https://github.com/jensenr30/vtop.git`
+`git clone https://github.com/jensenr30/phytop.git`
+
+to run the program, run the main python script:
+
+`python3 phytop.py`
 
 
 
